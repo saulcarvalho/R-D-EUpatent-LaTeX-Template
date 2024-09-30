@@ -8,4 +8,5 @@ Original content by:
 Modified by:
 - Saúl S. Carvalho
 
-<iframe src="https://github.com/saulcarvalho/eupatent_draft_template/blob/main/europeanpatent_template.pdf" width="100%" height="600px" style="border: none;"></iframe>
+Check the result here: <br/>
+[LaTeX Template PDF](https://github.com/saulcarvalho/eupatent_draft_template/blob/main/europeanpatent_template.pdf)
