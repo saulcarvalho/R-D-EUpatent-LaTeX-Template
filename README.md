@@ -1,4 +1,4 @@
-# European Patent Draft LaTeX Template
+# European Patent LaTeX Template
 This is a LaTeX template for drafting european patents compiled using TeXstudio 4.3.1
 
 Original content by: 
